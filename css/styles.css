@@ -427,7 +427,7 @@ body.dark-mode .form-control {
 
 /* Courses Page Styles */
 .courses-page {
-    padding-top: 80px;
+    /* padding-top: 1px; */
 }
 
 .section-title {
@@ -560,7 +560,7 @@ body.dark-mode .form-control {
 
 .price .original-price {
     text-decoration: line-through;
-    color: #999;
+    color: var(--orange-color);
     margin-right: 10px;
 }
 
