@@ -1,0 +1,25 @@
+Site files layout/
+├── index.html
+├── courses.html
+├── about.html
+├── privacy.html
+├── services.html
+├── terms.html
+├── css/
+│   └──styles.css
+├── js/
+│   ├── config.js
+│   ├── main.js
+│   ├── home.js
+│   ├── about.js
+│   ├── services.js
+│   ├── courses.js
+│   ├── course-modals.js
+│   └── contact-validation.js
+├── images/
+│   ├── logo.png
+│   ├── webdev.jpg
+│   └── ...
+└── favicon/
+    ├── favicon.ico
+    └── ...
